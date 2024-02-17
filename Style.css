@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Great+Vibes&family=Parisienne&display=swap");
+h1 {
+  font-family: "Great Vibes", cursive;
+  font-size: 8.5rem;
+  text-shadow: -15px 5px 20px #ced0d3;
+  letter-spacing: 0.02em;
+  color: #f9f1cc;
+  font-weight: 700;
+  margin: auto;
+  text-shadow: 5px 5px 0px #ffb650, 10px 10px 0px #ffd662, 15px 15px 0px #ff80bf,
+    20px 20px 0px #ef5097, 25px 25px 0px #6868ac, 30px 30px 0px #90b1e0;
+}
+h2 {
+  font-size: 45px;
+  font-family: "Great Vibes", cursive;
+}
+body {
+  background-image: url("https://wallpapercave.com/wp/wp7615284.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-size: 30px;
+  font-family: "Parisienne", cursive;
+}
+img {
+  border: 3px solid #faebd7;
+  border-radius: 2px;
+  padding: 10px;
+  width: 700px;
+  box-shadow: 10px 10px 5px #ffb650;
+}
